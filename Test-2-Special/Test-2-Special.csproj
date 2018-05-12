@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net461</TargetFramework>
+    <AssemblyName>Test-2-Special.Test</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
