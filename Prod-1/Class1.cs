@@ -14,10 +14,6 @@ namespace Prod_1
             return c;
         }
 
-        public int Subtract(int a, int b)
-        {
-            var c = a - b;
-            return c;
-        }
+        
     }
 }

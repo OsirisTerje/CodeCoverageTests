@@ -13,8 +13,8 @@ namespace Test_2_Special_2
         [Test]
         public void TestNothing()
         {
-            MathAtRestaurants math = new MathAtRestaurants();
-            Assert.Pass();
+        //    MathAtRestaurants math = new MathAtRestaurants();
+            Assert.That(true);
         }
     }
 }
